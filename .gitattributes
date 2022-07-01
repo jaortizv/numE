@@ -1,0 +1,2 @@
+*.geojson filter=lfs diff=lfs merge=lfs -text
+MGN_ANM_MPIOS.geojson filter=lfs diff=lfs merge=lfs -text
